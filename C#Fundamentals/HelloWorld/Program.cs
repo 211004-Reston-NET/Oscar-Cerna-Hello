@@ -37,7 +37,7 @@ namespace HelloWorld
             Console.WriteLine("Please enter your name");
 
             name = Console.ReadLine();
-            Console.WriteLine("Welcome", name);
+            Console.WriteLine($"Welcome {name}!");
         }
     }
 }
