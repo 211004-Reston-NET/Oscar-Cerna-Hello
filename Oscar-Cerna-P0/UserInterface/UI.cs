@@ -2,7 +2,7 @@
 
 namespace UI
 {
-    public class UI
+    public class Class1
     {
     }
 }
