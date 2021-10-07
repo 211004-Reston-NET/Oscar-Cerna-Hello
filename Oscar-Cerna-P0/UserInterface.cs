@@ -7,6 +7,7 @@ namespace Oscar_Cerna_P0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("I hope i can do this!");
         }
     }
 }
