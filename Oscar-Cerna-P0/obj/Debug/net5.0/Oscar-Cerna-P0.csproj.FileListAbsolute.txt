@@ -1,0 +1,16 @@
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.exe
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.deps.json
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.runtimeconfig.json
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.runtimeconfig.dev.json
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.dll
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\ref\Oscar-Cerna-P0.dll
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\bin\Debug\net5.0\Oscar-Cerna-P0.pdb
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.csproj.AssemblyReference.cache
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.AssemblyInfoInputs.cache
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.AssemblyInfo.cs
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.csproj.CoreCompileInputs.cache
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.dll
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\ref\Oscar-Cerna-P0.dll
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.pdb
+C:\Users\Ozzy\Documents\211004-Reston-NET\Oscar-Cerna-P0\obj\Debug\net5.0\Oscar-Cerna-P0.genruntimeconfig.cache
