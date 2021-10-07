@@ -1,12 +1,12 @@
 ﻿using System;
-using HouseFunction;   
-
-//This is a comment  
+using CollectionFunction;
+using HouseFunction; //You have to add the namespace from the House class to use the House class
+// This is a comment
 
 /*
-    This is mutliline comment 
-    - We use PascelCase for naming Class in C# (every word Captialized)
-    - We use camelCase for naming fields  
+    Will be a comment
+    - We use PascelCase for the most part and that means naming artifcats as EverythingWillBeCapitalized
+    - We use camelCase for naming fields and that means naming artifacts as onlyOnceYouHaveALowerCaseWordAtTheBeginning
 */
 
 namespace HelloWorld
@@ -15,29 +15,45 @@ namespace HelloWorld
     {
         /*
             - Main method is the first method that will be called/run. (The compiler will look for this method)
-            - static, I don't have to instantiate the program class to use that method 
-            - void, the method will not return any type 
+            - static means, I don't have to instantiate the program class to use that method
+            - void, the method will not give anything back
         */
-
         static void Main(string[] args)
         {
+            //It will print the test inside the parenthesis onto the terminal
             Console.WriteLine("Hello World!");
 
-            //Program.Example();
+            // This is if you don't make the method static you have to instantiate it
+            // Program test = new Program(); //This will instantiate the obj
+            // test.Example();
 
-            House Oscar = new House();
+            Program.Example();
 
-            Oscar.MiceName = "Jerry";
-            Oscar.Owner = "Stephen";
-            Console.WriteLine(Oscar.MiceName);
-            Console.WriteLine(Oscar.Owner);
-            Console.WriteLine(Oscar.owner);
+            //We instantiated an object called Stephen from the House class
+            House Stephen = new House();
+            // Console.WriteLine(Stephen.owner);
 
-            string name;
-            Console.WriteLine("Please enter your name");
+            //We set the properties of the house to some value
+            Stephen.MiceName = "Jerry";
+            Stephen.Owner = "Colin";
 
-            name = Console.ReadLine();
-            Console.WriteLine($"Welcome!");
+            //We displayed those changed values into the terminal
+            Console.WriteLine(Stephen.MiceName);
+            Console.WriteLine(Stephen.Owner);
+            Console.WriteLine(Stephen.owner);
+
+            //Solution to group activity to record a user input from the terminal
+            Console.WriteLine("What's your name?");
+            string name = Console.ReadLine(); //ReadLine method is the same as the read CLI from the bash scripting
+            Console.WriteLine($"Hello {name}! Welcome to programming!"); //This is a example of string interpolation in C#
+
+            Collection collectionObj = new Collection();
+            collectionObj.CollectionMain();
+        }
+
+        public static int Example()
+        {
+            return 10;
         }
     }
 }
